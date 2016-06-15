@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="ex8_SSH"
+  id="myeclipse.1417914722889"
+  context-root="/ex8_SSH"
+  j2ee-spec="5.0"
+  archive="ex8_SSH.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
